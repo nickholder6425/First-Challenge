@@ -6,12 +6,12 @@ DESCRIPTION:
 
         -   Changed Title
         -   Changed div tag and replaced with "header" element
-        -   Changed tag for content class attribute to "main"
-        -   Changed tag for benefits class attributte to "aside"
+        -   Changed tag for "content" class attribute to "main"
+        -   Changed tag for "benefits" class attributte to "aside"
         -   Changed tag for footer class attribute to "footer"      element
         -   Added "alt" description for images
         -   Removed duplicate and unnecessary "class" attributes
-        -   Modified CSS to show change/removal of class attribute for styling purposes
+        -   Modified CSS to show change/removal of class attributes
 
     Github: https://github.com/nickholder6425/First-Challenge
     URL:    https://nickholder6425.github.io/First-Challenge/
