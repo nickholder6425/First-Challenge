@@ -62,7 +62,7 @@ p {
     background-position: center;
 }
 
-/* FLOAT STYLING */
+/* FLOAT STYLING/POSIIONING */
 .float-left {
     float: left;
     margin-right: 25px;
